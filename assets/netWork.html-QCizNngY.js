@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,b as n}from"./app-T6GENy_a.js";const c={},_=n("p",null,"network",-1),r=[_];function s(a,l){return t(),o("div",null,r)}const f=e(c,[["render",s],["__file","netWork.html.vue"]]);export{f as default};

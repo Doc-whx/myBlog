@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,b as o}from"./app-T6GENy_a.js";const _={},s=o("p",null,"HTML",-1),n=[s];function l(r,a){return t(),c("div",null,n)}const d=e(_,[["render",l],["__file","html.html.vue"]]);export{d as default};

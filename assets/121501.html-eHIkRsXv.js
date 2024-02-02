@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fd11be8a","path":"/blogs/2024/121501.html","title":"前端技术发展","lang":"en-US","frontmatter":{"title":"前端技术发展","date":"2016/12/15","tags":["Frontend"],"categories":["HTML"]},"headers":[],"git":{},"filePathRelative":"blogs/2024/121501.md"}');export{t as data};

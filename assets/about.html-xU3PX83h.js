@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,b as c}from"./app-T6GENy_a.js";const _={},s=c("p",null,"...... 后面有时间再补充",-1),n=[s];function a(r,l){return t(),o("div",null,n)}const d=e(_,[["render",a],["__file","about.html.vue"]]);export{d as default};

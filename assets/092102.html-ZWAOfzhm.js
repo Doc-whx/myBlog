@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ddedcc12","path":"/blogs/2024/092102.html","title":"js发展历史","lang":"en-US","frontmatter":{"title":"js发展历史","date":"2017/09/21","tags":["CSS"],"categories":["CSS"]},"headers":[],"git":{},"filePathRelative":"blogs/2024/092102.md"}');export{t as data};
